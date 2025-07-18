@@ -10,3 +10,12 @@ You will be asked 10 random questions where you have to choose the correct India
 - For each question, select the correct option (A/B/C/D)
 - Your score will be displayed at the end
 - Type `quit` anytime to exit early
+
+# Features
+No park is repeated in a single quiz
+
+Multiple-choice format with 4 shuffled options
+
+Simple, clean terminal interface
+
+
